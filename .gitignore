@@ -1,0 +1,8 @@
+.idea
+./**/build
+
+./**/*/.idea
+node_modules/
+build/
+.idea/
+.gradle/
